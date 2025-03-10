@@ -18,12 +18,18 @@
 
 10. git checkout feature/example (or git checkout -)
 
-11. git rebase main
+11. git add .
 
-12. git commit --amend
+12. git stash
 
-13. in then new scene, enter :wq
+13. git rebase main
 
-14. git push -f origin feature/example
+14. git commit --amend -m "enter description here"
+
+15. in the new scene, enter :wq
+
+16. git stash pop
+
+17. git push -f origin feature/example
 
 
