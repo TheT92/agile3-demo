@@ -1,0 +1,13 @@
+1. git clone https://github.com/TheT92/agile3-demo.git
+
+2. git pull origin main
+
+3. git checkout -b feature/example
+
+4. git add .
+
+5. git commit -m "enter description here"
+
+6. git push origin feature/example
+
+7. git pull origin feature/example
