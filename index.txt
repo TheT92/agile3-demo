@@ -20,8 +20,10 @@
 
 11. git rebase main
 
-12. git commit --amend "enter description here"
+12. git commit --amend
 
-13. git push -f origin feature/example
+13. in then new scene, enter :wq
+
+14. git push -f origin feature/example
 
 
